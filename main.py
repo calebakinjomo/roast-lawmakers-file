@@ -1,3 +1,7 @@
+"""Roast lawmakers: a one-line roast of a tech-illiterate senator.
+
+The program writes the entry line to entry.txt and prints it.
+"""
 import os
 
 ENTRY = "The senator drafting the bill to rein in artificial intelligence just emailed his aide a photo of his own monitor and asked her to download the PDF from the printer."
